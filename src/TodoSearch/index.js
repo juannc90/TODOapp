@@ -14,7 +14,7 @@ function TodoSearch() {
         <section>
             <input
                 className="TodoSearch"
-                placeholder='Cebolla'
+                placeholder='Busca algún To Do'
                 value={searchValue}
                 onChange={onSearchValueChange}
             />
